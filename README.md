@@ -1,4 +1,4 @@
-# Hi, I'm EduardoVM #tecnologia
+# Hi, I'm EduardoVM  #technologist 
 This is my personal repo for README
 
 ```javascript
