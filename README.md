@@ -1,6 +1,6 @@
 # Hi, I'm EduardoVM  #technologist 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jefferson;I'm+from+Mexico;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Eduardo;I'm+from+Mexico;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 This is my personal repo for README
 
